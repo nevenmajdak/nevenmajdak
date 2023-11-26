@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @nevenmajdak "\U001F1ED \U001F1F7" :flag_croatia: \U001F1ED \U001F1F7
+- 👋 Hi, I’m @nevenmajdak
 - 👀 I’m interested in Programming, Data Science, Data Engineering, Scrum
 - 🌱 I’m currently learning Python, PowerBI, ETL, Scrum
 - 💞️ I’m looking to collaborate as Business Analyst, Data Scientist, Data Analyst, Data Engineer, Scrum Master
