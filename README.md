@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @nevenmajdak
 - 👀 I’m interested in Programming, Data Science, Data Engineering, Scrum
 - 🌱 I’m currently learning Python, PowerBI, ETL, Scrum
-- 💞️ I’m looking to collaborate as Business Analyst, Data Scientist, Data Analyst, Data Engineer
+- 💞️ I’m looking to collaborate as Business Analyst, Data Scientist, Data Analyst, Data Engineer, Scrum Master
 - 📫 How to reach me: <a href="mailto:neven.majdak@gmail.com">neven.majdak@gmail.com; </a> <a href="https://www.linkedin.com/in/nmajdak">https://www.linkedin.com/in/nmajdak; snapchat: nevenmaj</a>
 
 <!---
